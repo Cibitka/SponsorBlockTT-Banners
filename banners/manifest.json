@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-16",
+  "banners": [
+    {
+      "id": "SpyDota",
+      "file": "SpyDota.png",
+      "title": "SpyDota Banner"
+    }
+  ]
+}
