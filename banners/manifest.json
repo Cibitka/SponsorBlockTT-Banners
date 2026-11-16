@@ -1,11 +1,26 @@
 {
-  "version": 1,
-  "updated_at": "2026-11-16",
+  "version": 2,
+  "updated_at": "2026-11-16T12:01:58Z",
   "banners": [
     {
       "id": "SpyDota",
       "file": "SpyDota.png",
-      "title": "SpyDota Banner"
+      "title": "SpyDota Banner",
+      "category": "sponsor",
+      "width": 840,
+      "height": 252,
+      "sha256": "c90614c23373c2181eeb88feeb7d8893c202f09ede237145110920251c5e9cc0",
+      "enabled": true
+    },
+    {
+      "id": "NatriaVPN",
+      "file": "NatriaVPN.png",
+      "title": "Реклама Natria VPN",
+      "category": "sponsor",
+      "width": 312,
+      "height": 56,
+      "sha256": "768b7191b6f7957d527604d4e821a2c79fcf61d548201a986c5b2dbe3b6c310f",
+      "enabled": true
     }
   ]
 }
