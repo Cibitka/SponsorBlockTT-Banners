@@ -1,25 +1,62 @@
 {
-  "version": 2,
-  "updated_at": "2026-11-16T12:01:58Z",
+  "version": 3,
+  "updated_at": "2026-11-16T12:15:13Z",
   "banners": [
     {
       "id": "SpyDota",
-      "file": "SpyDota.png",
-      "title": "SpyDota Banner",
+      "title": "Реклама SpyDota (Dota 2)",
       "category": "sponsor",
-      "width": 840,
-      "height": 252,
-      "sha256": "c90614c23373c2181eeb88feeb7d8893c202f09ede237145110920251c5e9cc0",
+      "duration_sec": 2.867,
+      "start": {
+        "file": "SpyDota_start.png",
+        "width": 614,
+        "height": 94,
+        "sha256": "a903c3a54f6ec24539d7a074c4c94f585a99819fb98b9d466889fc036e8d9f16"
+      },
+      "end": {
+        "file": "SpyDota_end.png",
+        "width": 562,
+        "height": 162,
+        "sha256": "e7a90bbd19df7f517b8daf8fd2ac31c2890766af18927b2ae891aeeb4e2074a4"
+      },
       "enabled": true
     },
     {
       "id": "NatriaVPN",
-      "file": "NatriaVPN.png",
       "title": "Реклама Natria VPN",
       "category": "sponsor",
-      "width": 312,
-      "height": 56,
-      "sha256": "768b7191b6f7957d527604d4e821a2c79fcf61d548201a986c5b2dbe3b6c310f",
+      "duration_sec": 4.733,
+      "start": {
+        "file": "NatriaVPN_start.png",
+        "width": 324,
+        "height": 73,
+        "sha256": "4c3d5e72bebd19fad8216e01a91b5da5aa1f7faa3c1f2fc0e0e176fa80f8b539"
+      },
+      "end": {
+        "file": "NatriaVPN_end.png",
+        "width": 340,
+        "height": 161,
+        "sha256": "adfad1dd184883fc11cef699fe0fb9f0183eca85862516b5de0121ad3f7c180d"
+      },
+      "enabled": true
+    },
+    {
+      "id": "Upgrader",
+      "title": "Реклама Upgrader",
+      "category": "sponsor",
+      "duration_sec": 3.983,
+      "start": {
+        "file": "Upgrader_start.png",
+        "width": 906,
+        "height": 223,
+        "sha256": "79c4cfd195b24029b18ac5d713ac6f553a992b36091d5db8cc25627b949a0caf"
+      },
+      "end": {
+        "file": "Upgrader_end.png",
+        "width": 1005,
+        "height": 310,
+        "sha256": "d6bfbb0ebc17f257709ca0730fc2d5a0826b22e5858d2e744308dad16643bdf3"
+      },
       "enabled": true
     }
   ]
