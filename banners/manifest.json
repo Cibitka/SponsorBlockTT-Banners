@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated_at": "2026-11-16T12:15:13Z",
+  "version": 4,
+  "updated_at": "2026-11-16T14:55:35Z",
   "banners": [
     {
       "id": "SpyDota",
@@ -56,6 +56,25 @@
         "width": 1005,
         "height": 310,
         "sha256": "d6bfbb0ebc17f257709ca0730fc2d5a0826b22e5858d2e744308dad16643bdf3"
+      },
+      "enabled": true
+    },
+    {
+      "id": "MusorDrop",
+      "title": "Реклама Musor Drop",
+      "category": "sponsor",
+      "duration_sec": 4.067,
+      "start": {
+        "file": "MusorDrop_start.png",
+        "width": 950,
+        "height": 375,
+        "sha256": "8d7254b308f589d6b818aa6d4afdc7db41ac757a7a5d0036c3475bec61abe037"
+      },
+      "end": {
+        "file": "MusorDrop_end.png",
+        "width": 740,
+        "height": 383,
+        "sha256": "68207852919175d733569561464bbc48c0a8f60653d2ff3898993eda5dda06c5"
       },
       "enabled": true
     }
