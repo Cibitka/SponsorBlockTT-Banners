@@ -1,7 +1,256 @@
 {
-  "version": 5,
-  "updated_at": "2026-11-17T00:48:07Z",
-  "banners": [],
+  "version": 6,
+  "updated_at": "2026-11-17T00:54:18Z",
+  "banners": [
+    {
+      "id": "SpyDota",
+      "title": "Реклама SpyDota (Dota 2)",
+      "category": "sponsor",
+      "enabled": true,
+      "duration_sec": 2.833333,
+      "duration_tolerance_sec": 0.3,
+      "frame_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "roi": {
+        "x": 0.022222222222,
+        "y": 0.3890625,
+        "w": 0.955555555556,
+        "h": 0.2109375
+      },
+      "threshold": {
+        "mid": 3,
+        "edge": 10
+      },
+      "start": {
+        "file": "SpyDota_start.png",
+        "width": 688,
+        "height": 270,
+        "sha256": "d73d5faeb00b3d4778213edfd147e28a199412705edf3921350207a155fe7dcd",
+        "dhash": "0c0b082d090d2d08"
+      },
+      "mid": [
+        {
+          "t_rel": 0.25,
+          "file": "SpyDota_mid1.png",
+          "width": 688,
+          "height": 270,
+          "sha256": "a637a4a1b7fbcd3d3c012325dd5010f23340b49ddcc32d1070ae07f7e0a98dec",
+          "dhash": "0c0908144256520b"
+        },
+        {
+          "t_rel": 0.5,
+          "file": "SpyDota_mid2.png",
+          "width": 688,
+          "height": 270,
+          "sha256": "da3730bab76114698ae11183cfdf43d045ba14ae291e7c93010eab7dc3b8b808",
+          "dhash": "0e0f0f0e0e0e0e0f"
+        },
+        {
+          "t_rel": 0.8,
+          "file": "SpyDota_mid3.png",
+          "width": 688,
+          "height": 270,
+          "sha256": "dddeecae6248246114f8691054f0ad9d53b042be2cdbe30707b8dc5e9decf596",
+          "dhash": "534b3b270535770b"
+        }
+      ],
+      "end": {
+        "file": "SpyDota_end.png",
+        "width": 688,
+        "height": 270,
+        "sha256": "5d1ada98c4ddd23a11d5a0f864b914f345787307910ed9a2d5c29d4619ffa301",
+        "dhash": "174b3b270535670b"
+      }
+    },
+    {
+      "id": "NatriaVPN",
+      "title": "Реклама Natria VPN",
+      "category": "sponsor",
+      "enabled": true,
+      "duration_sec": 5.266667,
+      "duration_tolerance_sec": 0.3,
+      "frame_size": {
+        "width": 576,
+        "height": 1024
+      },
+      "roi": {
+        "x": 0.041666666667,
+        "y": 0.3994140625,
+        "w": 0.916666666667,
+        "h": 0.197265625
+      },
+      "threshold": {
+        "mid": 10,
+        "edge": 10
+      },
+      "start": {
+        "file": "NatriaVPN_start.png",
+        "width": 528,
+        "height": 202,
+        "sha256": "e3135ffdd570047eed96ad33c7aed0cd6e7e8ca77d21f3c4dcab8775007154f2",
+        "dhash": "d05179a961e3f1f2"
+      },
+      "mid": [
+        {
+          "t_rel": 0.234177,
+          "file": "NatriaVPN_mid1.png",
+          "width": 528,
+          "height": 202,
+          "sha256": "3ef672498d30014fadb08c3d475ba94025ae8df310eb099ddd43535f0152cd7f",
+          "dhash": "d4d179a96161e1b2"
+        },
+        {
+          "t_rel": 0.5,
+          "file": "NatriaVPN_mid2.png",
+          "width": 528,
+          "height": 202,
+          "sha256": "ed7a2067b962cbb2c856525092258bc55af2de3681e6910afc14d42682f132cb",
+          "dhash": "f0e1a9595be1f1f8"
+        },
+        {
+          "t_rel": 0.75,
+          "file": "NatriaVPN_mid3.png",
+          "width": 528,
+          "height": 202,
+          "sha256": "6185a557de7a9bed7591ccfddc7e5e287d498efeba0c2084c1adbd3c4feda3ca",
+          "dhash": "a09aa8185971f1f8"
+        }
+      ],
+      "end": {
+        "file": "NatriaVPN_end.png",
+        "width": 528,
+        "height": 202,
+        "sha256": "fe8eff636b39d0ccae9c84a19398da26c242f4899ae7921712b5997249c964f2",
+        "dhash": "601aa819d89b92f8"
+      }
+    },
+    {
+      "id": "Upgrader",
+      "title": "Реклама Upgrader",
+      "category": "sponsor",
+      "enabled": true,
+      "duration_sec": 3.966667,
+      "duration_tolerance_sec": 0.3,
+      "frame_size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "roi": {
+        "x": 0.038888888889,
+        "y": 0.40625,
+        "w": 0.922222222222,
+        "h": 0.183333333333
+      },
+      "threshold": {
+        "mid": 10,
+        "edge": 10
+      },
+      "start": {
+        "file": "Upgrader_start.png",
+        "width": 996,
+        "height": 352,
+        "sha256": "789e782e09fd78679cace20c13a784e706fc29a31cd32a4913b00b6095f10457",
+        "dhash": "3e6d5f53076b9bff"
+      },
+      "mid": [
+        {
+          "t_rel": 0.25,
+          "file": "Upgrader_mid1.png",
+          "width": 996,
+          "height": 352,
+          "sha256": "cbeec066c2d2d5b9677db03c42665a0b824f482c4e9bbf0bdfe4b964efd1e6c5",
+          "dhash": "694d654751471717"
+        },
+        {
+          "t_rel": 0.5,
+          "file": "Upgrader_mid2.png",
+          "width": 996,
+          "height": 352,
+          "sha256": "8a09706f6e517a3957627be0c411cb67b9b1d1d258b039aea16441076f0502ce",
+          "dhash": "0d4d454550455717"
+        },
+        {
+          "t_rel": 0.75,
+          "file": "Upgrader_mid3.png",
+          "width": 996,
+          "height": 352,
+          "sha256": "8b4a0a5370bcbc70e016ccbe54f1b2a9f406cbb02be8486a56a91057db18122e",
+          "dhash": "6d6d7979794d5517"
+        }
+      ],
+      "end": {
+        "file": "Upgrader_end.png",
+        "width": 996,
+        "height": 352,
+        "sha256": "b3c1c8df13dc2697c07e3c8ad89f9abe04a2657c3bdc312e1cdf681da1825685",
+        "dhash": "dfdd71795c2b7968"
+      }
+    },
+    {
+      "id": "MusorDrop",
+      "title": "Реклама Musor Drop",
+      "category": "sponsor",
+      "enabled": true,
+      "duration_sec": 4.366667,
+      "duration_tolerance_sec": 0.3,
+      "frame_size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "roi": {
+        "x": 0.055555555556,
+        "y": 0.276041666667,
+        "w": 0.888888888889,
+        "h": 0.1953125
+      },
+      "threshold": {
+        "mid": 6,
+        "edge": 5
+      },
+      "start": {
+        "file": "MusorDrop_start.png",
+        "width": 960,
+        "height": 375,
+        "sha256": "dfb7bae6552654a3459e402fbec85dba59d53f7f33f9bb0121baf0ab1b90c933",
+        "dhash": "4c4c4c4d6c6d0f0f"
+      },
+      "mid": [
+        {
+          "t_rel": 0.320611,
+          "file": "MusorDrop_mid1.png",
+          "width": 960,
+          "height": 375,
+          "sha256": "18c3c844de61d1abc2b055d6068a9a8cb17c7c38bbcb59359ac12b326bf2af55",
+          "dhash": "333333373333331f"
+        },
+        {
+          "t_rel": 0.5,
+          "file": "MusorDrop_mid2.png",
+          "width": 960,
+          "height": 375,
+          "sha256": "050bf507f8fc5438a2a6f8c9151612378cf4f337413d8646eb4e6542c9e73c84",
+          "dhash": "cdcc4c8d8d0f0f0f"
+        },
+        {
+          "t_rel": 0.75,
+          "file": "MusorDrop_mid3.png",
+          "width": 960,
+          "height": 375,
+          "sha256": "0ebbba6f851b62c723b32bb0bad867641d25a907553785227ff7dd83035c91a2",
+          "dhash": "0e830f0b0e0f073f"
+        }
+      ],
+      "end": {
+        "file": "MusorDrop_end.png",
+        "width": 960,
+        "height": 375,
+        "sha256": "8f5907f882ee682c244a7f8e910f6c3e2a4e66055ce8bef73211e79575209596",
+        "dhash": "0e030f0b0e0f073f"
+      }
+    }
+  ],
   "hash": {
     "algo": "dhash",
     "size": "9x8"
