@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updated_at": "2026-11-17T08:18:32Z",
+  "version": 9,
+  "updated_at": "2026-11-17T15:08:59Z",
   "banners": [
     {
       "id": "SpyDota",
@@ -76,10 +76,10 @@
         "height": 1024
       },
       "roi": {
-        "x": 0.041666666667,
-        "y": 0.3994140625,
-        "w": 0.916666666667,
-        "h": 0.197265625
+        "x": 0.03125,
+        "y": 0.4072265625,
+        "w": 0.920138888889,
+        "h": 0.1826171875
       },
       "threshold": {
         "mid": 10,
@@ -87,43 +87,43 @@
       },
       "start": {
         "file": "NatriaVPN_start.png",
-        "width": 528,
-        "height": 202,
-        "sha256": "e3135ffdd570047eed96ad33c7aed0cd6e7e8ca77d21f3c4dcab8775007154f2",
-        "dhash": "d05179a961e3f1f2"
+        "width": 530,
+        "height": 187,
+        "sha256": "56a32027dd264941058897ed79b96ebd620e72f2c9ed1f1b1b8a4367cae3c4c0",
+        "dhash": "d551692961e3f1b2"
       },
       "mid": [
         {
-          "t_rel": 0.234177,
+          "t_rel": 0.240506,
           "file": "NatriaVPN_mid1.png",
-          "width": 528,
-          "height": 202,
-          "sha256": "3ef672498d30014fadb08c3d475ba94025ae8df310eb099ddd43535f0152cd7f",
-          "dhash": "d4d179a96161e1b2"
+          "width": 530,
+          "height": 187,
+          "sha256": "2991f00b61b16efc7ae8389e21dfd68d2b68f2de1b4eac76d6f72e7ffb2b8228",
+          "dhash": "d55169a96161e1b2"
         },
         {
-          "t_rel": 0.5,
+          "t_rel": 0.487342,
           "file": "NatriaVPN_mid2.png",
-          "width": 528,
-          "height": 202,
-          "sha256": "ed7a2067b962cbb2c856525092258bc55af2de3681e6910afc14d42682f132cb",
-          "dhash": "f0e1a9595be1f1f8"
+          "width": 530,
+          "height": 187,
+          "sha256": "45ed572a257ae4aa8f035935bdcc1fc8704c103275fa20974e39b242a1f5e84b",
+          "dhash": "f5e9495959e3f1f8"
         },
         {
-          "t_rel": 0.75,
+          "t_rel": 0.759494,
           "file": "NatriaVPN_mid3.png",
-          "width": 528,
-          "height": 202,
-          "sha256": "6185a557de7a9bed7591ccfddc7e5e287d498efeba0c2084c1adbd3c4feda3ca",
-          "dhash": "a09aa8185971f1f8"
+          "width": 530,
+          "height": 187,
+          "sha256": "4297e83d2bdaf18718b9f1ae674676cf586777ef7d3d8ec54d966c26e14a3f55",
+          "dhash": "a89ab0985859f3f8"
         }
       ],
       "end": {
         "file": "NatriaVPN_end.png",
-        "width": 528,
-        "height": 202,
-        "sha256": "fe8eff636b39d0ccae9c84a19398da26c242f4899ae7921712b5997249c964f2",
-        "dhash": "601aa819d89b92f8"
+        "width": 530,
+        "height": 187,
+        "sha256": "788d9632afe128de6d967197844575d251e96604a63eeec70b97bc8fd7757e83",
+        "dhash": "289ab019581b92f0"
       }
     },
     {
@@ -254,5 +254,6 @@
   "hash": {
     "algo": "dhash",
     "size": "9x8"
-  }
+  },
+  "schema": 1
 }
