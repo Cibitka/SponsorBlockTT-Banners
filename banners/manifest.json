@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated_at": "2026-11-17T00:54:18Z",
+  "version": 7,
+  "updated_at": "2026-11-17T07:58:39Z",
   "banners": [
     {
       "id": "SpyDota",
@@ -14,54 +14,54 @@
         "height": 1280
       },
       "roi": {
-        "x": 0.022222222222,
-        "y": 0.3890625,
-        "w": 0.955555555556,
-        "h": 0.2109375
+        "x": 0.108333333333,
+        "y": 0.43828125,
+        "w": 0.795833333333,
+        "h": 0.12109375
       },
       "threshold": {
-        "mid": 3,
+        "mid": 7,
         "edge": 10
       },
       "start": {
         "file": "SpyDota_start.png",
-        "width": 688,
-        "height": 270,
-        "sha256": "d73d5faeb00b3d4778213edfd147e28a199412705edf3921350207a155fe7dcd",
-        "dhash": "0c0b082d090d2d08"
+        "width": 573,
+        "height": 155,
+        "sha256": "feaf01b03b406d698693e1c9b167e0b499f686c8fc83b14fad4b425ca2c54934",
+        "dhash": "09000c0555155555"
       },
       "mid": [
         {
           "t_rel": 0.25,
           "file": "SpyDota_mid1.png",
-          "width": 688,
-          "height": 270,
-          "sha256": "a637a4a1b7fbcd3d3c012325dd5010f23340b49ddcc32d1070ae07f7e0a98dec",
-          "dhash": "0c0908144256520b"
+          "width": 573,
+          "height": 155,
+          "sha256": "4b2ac9185d95dc11df49ccdf7f1ac9d4fac1bccf4d0a7ce255bd22096b99749f",
+          "dhash": "090856564e575555"
         },
         {
           "t_rel": 0.5,
           "file": "SpyDota_mid2.png",
-          "width": 688,
-          "height": 270,
-          "sha256": "da3730bab76114698ae11183cfdf43d045ba14ae291e7c93010eab7dc3b8b808",
-          "dhash": "0e0f0f0e0e0e0e0f"
+          "width": 573,
+          "height": 155,
+          "sha256": "d94d04df887757d55bde3ffd137531a71c5c2e565f73cdf1b75ce806d7cafebc",
+          "dhash": "1f0f0e1e161f0f0f"
         },
         {
-          "t_rel": 0.8,
+          "t_rel": 0.764706,
           "file": "SpyDota_mid3.png",
-          "width": 688,
-          "height": 270,
-          "sha256": "dddeecae6248246114f8691054f0ad9d53b042be2cdbe30707b8dc5e9decf596",
-          "dhash": "534b3b270535770b"
+          "width": 573,
+          "height": 155,
+          "sha256": "7ffa332c8ad9bf443515baeafb7176365288a5f0ce106c3c27009982609d9b4e",
+          "dhash": "6353574b5b576164"
         }
       ],
       "end": {
         "file": "SpyDota_end.png",
-        "width": 688,
-        "height": 270,
-        "sha256": "5d1ada98c4ddd23a11d5a0f864b914f345787307910ed9a2d5c29d4619ffa301",
-        "dhash": "174b3b270535670b"
+        "width": 573,
+        "height": 155,
+        "sha256": "00b4ca07ad9378de3f929d111db80b94f7b9c3d271901c87bbbdecc291e08f4e",
+        "dhash": "594757434b566967"
       }
     },
     {
@@ -144,7 +144,7 @@
         "h": 0.183333333333
       },
       "threshold": {
-        "mid": 10,
+        "mid": 6,
         "edge": 10
       },
       "start": {
@@ -193,61 +193,61 @@
       "title": "Реклама Musor Drop",
       "category": "sponsor",
       "enabled": true,
-      "duration_sec": 4.366667,
+      "duration_sec": 4.35,
       "duration_tolerance_sec": 0.3,
       "frame_size": {
         "width": 1080,
         "height": 1920
       },
       "roi": {
-        "x": 0.055555555556,
-        "y": 0.276041666667,
-        "w": 0.888888888889,
-        "h": 0.1953125
+        "x": 0.112037037037,
+        "y": 0.2734375,
+        "w": 0.793518518519,
+        "h": 0.205729166667
       },
       "threshold": {
-        "mid": 6,
-        "edge": 5
+        "mid": 8,
+        "edge": 6
       },
       "start": {
         "file": "MusorDrop_start.png",
-        "width": 960,
-        "height": 375,
-        "sha256": "dfb7bae6552654a3459e402fbec85dba59d53f7f33f9bb0121baf0ab1b90c933",
-        "dhash": "4c4c4c4d6c6d0f0f"
+        "width": 857,
+        "height": 395,
+        "sha256": "1286caf60836de31e87254d6a3d6379a527b895cca7b024d250925d4222bbf9b",
+        "dhash": "cecccc4ccc4c0f0f"
       },
       "mid": [
         {
-          "t_rel": 0.320611,
+          "t_rel": 0.274809,
           "file": "MusorDrop_mid1.png",
-          "width": 960,
-          "height": 375,
-          "sha256": "18c3c844de61d1abc2b055d6068a9a8cb17c7c38bbcb59359ac12b326bf2af55",
-          "dhash": "333333373333331f"
+          "width": 857,
+          "height": 395,
+          "sha256": "e2344dc5ee45a710ca7d3ad697596d1b0ab339608b8fd964839839a2c1d7824d",
+          "dhash": "4664e6eeec64640f"
         },
         {
           "t_rel": 0.5,
           "file": "MusorDrop_mid2.png",
-          "width": 960,
-          "height": 375,
-          "sha256": "050bf507f8fc5438a2a6f8c9151612378cf4f337413d8646eb4e6542c9e73c84",
-          "dhash": "cdcc4c8d8d0f0f0f"
+          "width": 857,
+          "height": 395,
+          "sha256": "3acf6ac40ed2423194e2e0fd9f2c46d615a60225fa6ffd62d4db47ac5aa24926",
+          "dhash": "8c8c9e8c8e8f0f0f"
         },
         {
           "t_rel": 0.75,
           "file": "MusorDrop_mid3.png",
-          "width": 960,
-          "height": 375,
-          "sha256": "0ebbba6f851b62c723b32bb0bad867641d25a907553785227ff7dd83035c91a2",
-          "dhash": "0e830f0b0e0f073f"
+          "width": 857,
+          "height": 395,
+          "sha256": "44dfa1d39261f1c8c7b5a4c79b539d0efbcbbdf253e0bbd074e535e7b04c6267",
+          "dhash": "0f031b0b0f0b573f"
         }
       ],
       "end": {
         "file": "MusorDrop_end.png",
-        "width": 960,
-        "height": 375,
-        "sha256": "8f5907f882ee682c244a7f8e910f6c3e2a4e66055ce8bef73211e79575209596",
-        "dhash": "0e030f0b0e0f073f"
+        "width": 857,
+        "height": 395,
+        "sha256": "09ba1756fdce2528c41d7e39d753b34e8136b5d8a8c00a2cffb45d95d6e338b1",
+        "dhash": "0f031b0b0b0b573f"
       }
     }
   ],
