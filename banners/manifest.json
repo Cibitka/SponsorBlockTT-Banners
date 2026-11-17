@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated_at": "2026-11-17T07:58:39Z",
+  "version": 8,
+  "updated_at": "2026-11-17T08:18:32Z",
   "banners": [
     {
       "id": "SpyDota",
@@ -48,20 +48,20 @@
           "dhash": "1f0f0e1e161f0f0f"
         },
         {
-          "t_rel": 0.764706,
+          "t_rel": 0.858824,
           "file": "SpyDota_mid3.png",
           "width": 573,
           "height": 155,
-          "sha256": "7ffa332c8ad9bf443515baeafb7176365288a5f0ce106c3c27009982609d9b4e",
-          "dhash": "6353574b5b576164"
+          "sha256": "bd2d6659130f96dce0742dc077720f2acc6c2c8c36d8c6a4d8f12876164fbc93",
+          "dhash": "574757534b566f6e"
         }
       ],
       "end": {
         "file": "SpyDota_end.png",
         "width": 573,
         "height": 155,
-        "sha256": "00b4ca07ad9378de3f929d111db80b94f7b9c3d271901c87bbbdecc291e08f4e",
-        "dhash": "594757434b566967"
+        "sha256": "15454e1fd0cf7fdd44a69e68811493e7c391d33ef276b106b51c4cbeec0bb012",
+        "dhash": "574757434b56696e"
       }
     },
     {
@@ -69,7 +69,7 @@
       "title": "Реклама Natria VPN",
       "category": "sponsor",
       "enabled": true,
-      "duration_sec": 5.266667,
+      "duration_sec": 5.233333,
       "duration_tolerance_sec": 0.3,
       "frame_size": {
         "width": 576,
